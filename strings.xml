@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一键优化大师</string>
+    <string name="app_" />
+    <string name="back_process">后台进程</string>
+    <string name="acc_now">可快速清理的项</string>
+    <string name="acc_base">基本信息扫描</string>
+    <string name="acc_cache">获取手机应用缓存信息</string>
+    <string name="no_cache">您的手机没有任何应用缓存</string>
+    <string name="cache">您的手机包含%s应用缓存</string>
+    <string name="data_story_info">您的手机已安装%d个应用,手机剩余空间</string>
+    <string name="extra_story_info">外部存储卡剩余内存%s</string>
+    <string name="sd_base">检测外部存储卡</string>
+    <string name="memory_cast">内存消耗</string>
+    <string name="SD_cast">存储使用</string>
+    <string name="running_memory">%d个运行进程,占用内存</string>
+    <string name="acc_running">扫描运行进程</string>
+    <string name="clearing_pro">正在清理:后台进程%s</string>
+    <string name="clearing_cache">正在清理:应用缓存%s</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="stroke_width" format="dimension">
+    </attr>
+    <attr name="progress" format="float">
+    </attr>
+    <attr name="sec_progress" format="float">
+    </attr>
+    <attr name="bg_progress" format="float">
+    </attr>
+    <attr name="marker_progress" format="float">
+    </attr>
+    <attr name="progress_color" format="color">
+    </attr>
+    <attr name="progress_background_color" format="color">
+    </attr>
+    <attr name="thumb_visible" format="boolean">
+    </attr>
+    <attr name="marker_visible" format="boolean">
+    </attr>
+    <attr name="effect">
+        <enum name="standard" value="0" />
+        <enum name="grow" value="1" />
+        <enum name="cards" value="2" />
+        <enum name="curl" value="3" />
+        <enum name="wave" value="4" />
+        <enum name="flip" value="5" />
+        <enum name="fly" value="6" />
+        <enum name="reverse_fly" value="7" />
+        <enum name="helix" value="8" />
+        <enum name="fan" value="9" />
+        <enum name="tilt" value="10" />
+        <enum name="zipper" value="11" />
+        <enum name="fade" value="12" />
+        <enum name="twirl" value="13" />
+        <enum name="slide_in" value="14" />
+    </attr>
+    <attr name="only_animate_new_items" format="boolean">
+    </attr>
+    <attr name="only_animate_fling" format="boolean">
+    </attr>
+    <attr name="simulate_grid_with_list" format="boolean">
+    </attr>
+    <attr name="max_velocity" format="integer">
+    </attr>
+    <attr name="circularProgressBarStyle" format="reference">
+    </attr>
+    <attr name="progress_num" format="integer">
+    </attr>
+    <attr name="max" format="integer">
+    </attr>
+    <attr name="progress_unreached_color" format="color">
+    </attr>
+    <attr name="progress_reached_color" format="color">
+    </attr>
+    <attr name="progress_reached_bar_height" format="dimension">
+    </attr>
+    <attr name="progress_unreached_bar_height" format="dimension">
+    </attr>
+    <attr name="progress_text_size" format="dimension">
+    </attr>
+    <attr name="progress_text_color" format="color">
+    </attr>
+    <attr name="progress_text_offset" format="dimension">
+    </attr>
+    <attr name="numberProgressBarStyle" format="reference">
+    </attr>
+</resources>

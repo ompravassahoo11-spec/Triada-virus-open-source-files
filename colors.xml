@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#faf9f6</color>
+    <color name="white">#ffffff</color>
+    <color name="white_transparent_bg">#00ffffff</color>
+    <color name="white_tran_bg">#01000000</color>
+    <color name="gray">#999999</color>
+    <color name="gray_light">#cccccc</color>
+    <color name="black">#222222</color>
+    <color name="green">#53a6d8</color>
+    <color name="blue">#095780</color>
+    <color name="zong">#4e363c</color>
+</resources>
